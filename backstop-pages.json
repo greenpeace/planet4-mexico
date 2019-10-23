@@ -1,0 +1,22 @@
+{
+  "scenarios": [
+    {
+      "label": "Planet4 Mexico act page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/participa/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    },
+    {
+      "label": "Planet4 Mexico explore page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/informate/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    },
+    {
+      "label": "Planet4 Mexico privacy and cookies page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/privacidad-y-cookies/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    }
+  ]
+}
